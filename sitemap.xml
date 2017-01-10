@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://eestec.ee.duth.gr/</loc>
+  <lastmod>2013-10-08T23:56:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/index.html</loc>
+  <lastmod>2013-10-08T23:56:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/aboutus.html</loc>
+  <lastmod>2013-09-29T21:31:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/aboutevent.html</loc>
+  <lastmod>2013-10-08T23:55:11+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/sponsors.html</loc>
+  <lastmod>2013-09-29T21:36:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/findus.html</loc>
+  <lastmod>2013-09-29T21:38:01+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/contact.html</loc>
+  <lastmod>2013-09-30T01:53:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/faq.html</loc>
+  <lastmod>2013-09-29T21:34:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/aboutus_gr.html</loc>
+  <lastmod>2013-09-29T21:32:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eestec.ee.duth.gr/aboutevent_gr.html</loc>
+  <lastmod>2013-09-29T21:30:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
